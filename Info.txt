@@ -1,0 +1,7 @@
+A React web application showing moview and shows
+
+## Description
+
+The application for displaying the movies and shows by search terms, It is bootstraped with React, Redux-toolkit and scss.
+
+This app displayes the movie and show details, rating  and description.
